@@ -1,0 +1,52 @@
+/* -------------------------------------------- (max-width: 320px) --------------------------------------------------- */
+@media(max-width: 320px)
+{
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.wt_nav_top {
+	height: auto;
+}
+.nav_top_ul {
+    padding: 0;
+}
+}
+/* -------------------------------------------- (min-width:321px) and (max-width: 480px) --------------------------------------------------- */
+@media(min-width:321px) and (max-width: 480px)
+{
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+}
+/* ---------------------------------------- (min-width:481px) and (max-width: 767px) ------------------------------------------- */
+@media(min-width:481px) and (max-width: 767px)
+{
+.xs_33 {
+  width: 33.33333333%;
+}
+.xs_50 {
+	width:50%;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+}
+/* -------------------------------------------- (min-width:768px) and (max-width: 1000px) -------------------------------------- */
+@media(min-width:768px) and (max-width: 1000px)
+{
+
+}
+/* -------------------------------------------- (min-width:1001px) and (max-width: 1024px) ----------------------------------------- */
+@media(min-width:1001px) and (max-width: 1024px)
+{
+
+}
+/* -------------------------------------------- (min-width:1001px) and (max-width: 1024px) ----------------------------------------- */
+@media(min-width:1366px)
+{
+
+}
